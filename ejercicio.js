@@ -544,11 +544,4 @@ function CalculadoraInversa(int,int1,string){
       break;
   }
 }
-
 CalculadoraInversa(2, 3, '/');
-
-
-
-
-
-//password obtenernumerosimpares
